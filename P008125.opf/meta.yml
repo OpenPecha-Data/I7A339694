@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN2406
   title: འབྲུག་ལུགས་འདོན་ཆོག་ཕྱོགས་བསྡུས།
-  volume: ''
+  volume:
+    111811618ef9424e8767a2ce5662c680:
+      image_group_id: I3CN2408
+      title: Volume 1 of 'brug lugs 'don chog phyogs bsdus/
+      volume_number: 1
+      total_pages: 816
   author: ''
+ebook_metadata:
+  title: འབྲུག་ལུགས་འདོན་ཆོག་ཕྱོགས་བསྡུས།
+  author: ''
+  sku: P008125
+  cover: cover.jpg
+  layers:
+  - pagination
